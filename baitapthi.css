@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* CSS Document */
+#outer{
+	height:2700px;
+	width: 600px;
+	background:grey;
+	margin:0 auto;
+	}
+.Header{
+	height:300px;
+	width:100%;
+	background:#FDFDFD;
+	}
+.banner{
+	height:20px;
+	width:100%;
+	background: #A10F11;
+.logo{
+	height:50px;
+	width: 50px;
+	background: #EAEAEA;
+	float:inherit;
+	}
+.menu{
+	height:50px;
+	width: 520px;
+	background: #DADADA;
+	float:right;
+	}
+.Mid{
+	height:2100px;
+	width:100%;
+	background:white;
+.text{
+	height:300px;
+	width:100%;
+	background:#638BA2;
+	}
+.left1{
+	height:450px;
+	width:500pxl;
+	margin-left: 50px;
+	}
+.left2{
+	height:450px;
+	width:500pxl;
+	margin-left: 50px;
+	}
+.right1{
+	height:450px;
+	width:500px;
+	margin-left: 50px;
+	
+.right2{
+	height:450px;
+	width:500px;
+	margin-left: 50px;
+	}
+.bottom{
+	height:200px;
+	width:100%;
+	background: #C1C1C1;
+	
+	
